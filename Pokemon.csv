@@ -1,0 +1,10 @@
+Nom;N°Pokedex;PV;Attaque 1;Attaque 2;Evoluttion de;Type
+Bulbizard;1;70;Griffe;TrancheHerbe;;Plante
+Herbizard;2;80;FouetLiane;TrancheHerbe;Bulbizard;Plante
+Florizard;3;100;CanonSolaire;FouetLiane;Herbizard;Plante
+Salameche;4;70;Griffe;Queue de Flamme;;Feu
+Reptincel;5;90;Griffe;Flameche;Salameche;Feu
+Dracaufeu;6;200;Lance Flamme;Frappe Atlas;Reptincel;Feu
+Carapuce;7;60;Griffe;Bulle d'eau;;Eau
+Carabaffe;8;70;Bulle d'eau;coup d'boule;Carapuce;Eau
+Tortank;9;90;Canon à eau;;Carabaffe;Eau

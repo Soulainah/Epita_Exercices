@@ -1,0 +1,4 @@
+Nom;Faible (degat -20%);Fort (degat +20%)
+Eau;Plante;Feu
+Plante;Feu;Eau
+Feu;Eau;Plante
